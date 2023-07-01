@@ -149,6 +149,7 @@ fun Banner() {
             )
             .clip(shape = CircleShape)
     ) {
+        // test commit phat
         Image(
             painterResource(id = R.drawable.banner),
             contentDescription = "Banner test, có thể đặt bằng null",
